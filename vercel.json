@@ -1,0 +1,15 @@
+{
+
+  "redirects": [
+
+    {
+
+      "source": "/OneDrive/:path*",
+
+      "destination": "/:path*"
+
+    }
+
+  ]
+
+}
