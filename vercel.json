@@ -4,9 +4,9 @@
 
     {
 
-      "source": "/OneDrive/:path*",
+      "source": "https://onedrive-dex.vercel.app/OneDrive/:path*",
 
-      "destination": "/:path*"
+      "destination": "https://onedrive-dex.vercel.app/:path*"
 
     }
 
